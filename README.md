@@ -6,7 +6,7 @@ An interactive data analytics project that analyzes Customer Lifetime Value (CLV
  # Dataset Used
 The project uses the Telco Customer Churn dataset, which contains information about 7,043 customers from a telecommunications company. The dataset includes customer demographics, internet service type, contract details, payment methods, monthly charges, customer lifetime value, tenure, paperless billing, technical support, online security, and churn status. This data enables comprehensive analysis of customer behavior, service usage, and churn patterns.
 
-- <a href=" https://1drv.ms/x/c/895d7a6d460ec615/IQDY9rsZeHJORao6AgeCz_lQAQK3wDv3F8Mk3GkaCgZyi24?e=r5w497"> Data Set
+<a href=" https://1drv.ms/x/c/895d7a6d460ec615/IQDY9rsZeHJORao6AgeCz_lQAQK3wDv3F8Mk3GkaCgZyi24?e=r5w497"> Data Set
 
 
 # Key Questions Answered
@@ -27,6 +27,7 @@ An interactive Excel dashboard was developed using Pivot Tables, Pivot Charts, S
 <a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
   <img src="https://raw.githubusercontent.com/Ezhilarasi-123/Excel-Mini-Project-/main/Screenshot%202026-05-27%20144059.png" width="900">
 </a>
+
 #  Project Process
 1.Imported the Telco Customer Churn dataset into SQL and Excel.
 
@@ -37,9 +38,11 @@ An interactive Excel dashboard was developed using Pivot Tables, Pivot Charts, S
 4.Imported the processed data into Excel and created Pivot Tables, Pivot Charts, KPI Cards, and Interactive Slicers.
 
 5.Built an interactive dashboard to visualize churn patterns, customer lifetime value, and key business metrics for better decision-making.
+
 <a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
   <img src="https://raw.githubusercontent.com/Ezhilarasi-123/Excel-Mini-Project-/main/Screenshot%202026-05-27%20144059.png" width="900">
 </a>
+
 # Project Insights
 1.The dataset contains 7,043 customers, of which 1,869 customers have churned, resulting in a 26.5% churn rate.
 
