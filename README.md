@@ -24,9 +24,9 @@ The project uses the Telco Customer Churn dataset, which contains information ab
 # KPI Dashboard & Interaction
 An interactive Excel dashboard was developed using Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, and SQL-generated insights. The dashboard displays important KPIs including Total Customers, Churn Customers, Churn Rate, Average CLV, and High-Risk Customers. Interactive slicers allow users to filter the dashboard by Gender, Contract Type, Customer Segment, Internet Service, Payment Method, Risk Level, Tech Support, Paperless Billing, Senior Citizen, and Churn Status. These filters enable dynamic analysis and help users quickly identify trends and customer behavior.
 
-- <a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
-- <a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144111.png">
-
+<a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
+  <img src="https://raw.githubusercontent.com/Ezhilarasi-123/Excel-Mini-Project-/main/Screenshot%202026-05-27%20144059.png" width="900">
+</a>
 #  Project Process
 1.Imported the Telco Customer Churn dataset into SQL and Excel.
 
@@ -37,8 +37,9 @@ An interactive Excel dashboard was developed using Pivot Tables, Pivot Charts, S
 4.Imported the processed data into Excel and created Pivot Tables, Pivot Charts, KPI Cards, and Interactive Slicers.
 
 5.Built an interactive dashboard to visualize churn patterns, customer lifetime value, and key business metrics for better decision-making.
--<a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
-- <a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144111.png">
+<a href="https://github.com/Ezhilarasi-123/Excel-Mini-Project-/blob/main/Screenshot%202026-05-27%20144059.png">
+  <img src="https://raw.githubusercontent.com/Ezhilarasi-123/Excel-Mini-Project-/main/Screenshot%202026-05-27%20144059.png" width="900">
+</a>
 # Project Insights
 1.The dataset contains 7,043 customers, of which 1,869 customers have churned, resulting in a 26.5% churn rate.
 
